@@ -1,2 +1,4 @@
 Mi nombre: Raul - Juan - Jhon
 Mi apellido: Zambrano - Escobar - Quispe
+Mi Edad: 21
+Mi Comida Favorita: Carnero al Palo
